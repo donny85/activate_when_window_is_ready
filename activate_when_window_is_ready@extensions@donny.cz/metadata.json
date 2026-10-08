@@ -1,0 +1,11 @@
+{
+  "description": "Suppresses the 'Window is ready' notification and activates the window",
+  "license": "0BSD",
+  "name": "Activate When Window Is Ready",
+  "shell-version": [
+    "50"
+  ],
+  "url": "",
+  "uuid": "activate_when_window_is_ready@extensions@donny.cz",
+  "version": 1
+}
